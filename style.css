@@ -1,0 +1,33 @@
+img {
+    height: 300px;
+    width: 300px;
+}
+
+img {
+
+    transition: transform .2s;
+}
+
+img:hover {
+
+    transform: scale(0.9);
+}
+
+body {
+    text-align: center;
+    background-color: azure;
+    color: cornflowerblue;
+}
+
+.line {
+    height: 6px;
+    width: 30px;
+    margin: auto;
+    color: bisque;
+}
+
+#myinspirations {
+    width: 700%;
+    height: 800px;
+    background-color: lightcyan;
+}
